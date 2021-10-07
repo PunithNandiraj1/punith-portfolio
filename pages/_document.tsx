@@ -20,7 +20,7 @@ class MyDocument extends Document {
             content="Full Stack Web Developer, Freelancer ,MERN developer"
           />
         </Head>
-        <body className="bg-fixed bg-white dark:from-dark-500 dark:to-dark-700 dark:text-white">
+        <body className="bg-fixed bg-white dark:bg-black dark:from-dark-500 dark:to-dark-700 dark:text-white">
           <Main />
           <NextScript />
         </body>
