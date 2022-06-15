@@ -23,8 +23,8 @@ const About = ({ BASE_URL }) => {
       </Head>
       {/* // h5 */}
       <h4 className="my-3">
-        I am FullStack Developer passed out from Manipal Institue of Technology who has a minor specialization in Digital Marketing and also have great interest in 
-        new Emerging technologies. I have 1.5+ years of Remote experience in Frontend Development and Content Writing.
+        I am Frontend Web3 Developer currently in final sem of Masters of Science in Computer Science from Liverpool John Moores University who has a specialization in Blockchain Development and also have great interest in 
+        new Emerging technologies. I have 2+ years of Remote experience in Frontend Development and Content Writing.
       </h4>
       <div
         className="flex-grow p-4 mt-5 bg-gray-100 dark:bg-dark-100"
